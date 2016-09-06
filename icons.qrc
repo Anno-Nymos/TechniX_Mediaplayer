@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/play1-150x150.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/Technix_favicon.jpg</file>
+        <file>icons/Open_File.png</file>
+        <file>icons/next.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/pause1-150x150.png</file>
+    </qresource>
+</RCC>
