@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Back.jpg</file>
+        <file>Back.png</file>
+        <file>Pause.png</file>
+        <file>Play.jpg</file>
+        <file>Play.png</file>
+        <file>Skip.jpg</file>
+        <file>Skip.png</file>
+        <file>Stop.jpg</file>
+        <file>Stop.png</file>
+        <file>Technix_favicon.jpg</file>
+        <file>Pause.jpg</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>DVBBS &amp; Borgeous - TSUNAMI (Original Mix).mp3</file>
+    </qresource>
+</RCC>
